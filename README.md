@@ -280,12 +280,14 @@ Este documento contiene 10 ejercicios prácticos de **DML (Data Manipulation Lan
 
 ---
 
-## 👤 Autor
-
-**Práctica de DML en PostgreSQL**  
-Fecha: Octubre 2025  
-Base de Datos: Chinook
-
+👤 Autor
+Mayro Gameros
+📧 Email: barriosgamerosmayro@gmail.com
+💼 LinkedIn: linkedin.com/in/mayrogameros](https://www.linkedin.com/in/mayro-gameros-b9b132379/
+🐙 GitHub: @mayrogameros](https://github.com/MayroGamerosXZ
+📅 Fecha: Octubre 2025
+🗃️ Base de Datos: Chinook
+🎯 Nivel: Intermedio
 ---
 
 ## 📝 Licencia
@@ -303,6 +305,4 @@ Este código es de uso educativo y libre para fines de aprendizaje.
 - [x] Se realizan cálculos matemáticos
 - [x] Código comentado y documentado
 
----
 
-**¡Happy Coding! 🎵🎸**
